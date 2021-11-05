@@ -25,7 +25,7 @@ public class AppTest {
     }
 
     @Test
-    public void testMain() {
+    public void testMain1() {
         final ByteArrayOutputStream outContent = new
                 ByteArrayOutputStream();
         System.setOut(new PrintStream(outContent));
